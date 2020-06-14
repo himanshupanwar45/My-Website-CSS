@@ -58,6 +58,7 @@ p{
     background-color: #EAF6F6;
     position: relative;
     padding-top: 100px;
+    width: 100%;
 
 }
 
@@ -70,6 +71,10 @@ p{
     background-color: #66BFBF;
     padding: 50px 0 20px 0;
 
+}
+
+.mountain-img{
+    margin: auto;
 }
 
 .intro{
