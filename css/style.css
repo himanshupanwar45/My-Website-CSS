@@ -7,6 +7,10 @@ body{
     padding: 30px;
 }
 
+.top-container__heading{
+    margin: 0 auto;
+    width: 60%;
+}
 
 h1{
     margin: 0 auto 0 auto;
